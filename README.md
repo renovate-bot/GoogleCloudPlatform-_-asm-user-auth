@@ -5,6 +5,11 @@ This repository contains the ASM User Auth deployment for Anthos service mesh.
 ## Release Notes
 
 *   release-1.2
+    
+    + v1.2.6
+
+        - Improved support detecting API requests.
+        - Improved logging when using CEL expressions to detect API requests.
 
     + v1.2.5
 
